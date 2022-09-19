@@ -54,5 +54,6 @@
 <a href="https://eastlab.uchicago.edu/" target="blank"><img align="center" src="https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/b/2760/files/2021/04/EAST_logo.png" alt="eastlab" height="40" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudogakrc&show_icons=true&locale=en" alt="sudogakrc"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudogakrc&" alt="sudogakrc"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudogakrc&show_icons=true&locale=en" alt="sudogakrc"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudogakrc&" alt="sudogakrc"/></p>
 
