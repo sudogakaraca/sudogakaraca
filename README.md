@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently **conducting an NLP research on HPCs** ["Understanding Divergent Interpretations of Political Information"](https://datascience.uchicago.edu/news/new-data-democracy-research-initiative-launched-at-university-of-chicago/)
 
-- 🌱 I’m currently working with ["Aajmatics Inc."](https://aajimatics.com/) on eBusiness and eSecurity technologies
+- 🌱 I’m currently working with ["Aajmatics Inc."](https://aajimatics.com/) on **cybersecurity insurance**
 
 - 📄 See a sample of my codes on **data science, statistics, and quantitative/qualitative research methods** in my ["other repo"](https://github.com/sudogakrc/Projects)
 
