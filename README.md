@@ -1,25 +1,26 @@
 <h1 align="center">Hi,  I'm Su Doga Karaca!</h1>
-<h4 align="center"><em>A third-year undergraduate student at ["UChicago"](https://www.uchicago.edu/), majoring in Data Science 📊 and Experimental Psychology 🧠</em></h4>
+<h3 align="center"><em>A third-year undergraduate student at the University of Chicago, majoring in Data Science 📊 and Experimental Psychology 🧠</em></h3>
 
 <a href="https://giphy.com/gifs/cute-girl-l0HlGeTBdTqMll15u"><img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif?cid=790b7611fcdb92b378e371ea8bdec6ccf274b5dc9502a975&rid=giphy.gif&ct=s"></a>
 
 
 
-- 🔭 I’m currently **conducting an NLP research on HPCs** ["Understanding Divergent Interpretations of Political Information"](https://datascience.uchicago.edu/news/new-data-democracy-research-initiative-launched-at-university-of-chicago/)
+- 🔭 I’m currently **conducting an NLP research on HPCs**: [Understanding Divergent Interpretations of Political Information](https://datascience.uchicago.edu/news/new-data-democracy-research-initiative-launched-at-university-of-chicago/)
 
-- 🌱 I’m currently working with ["Aajmatics Inc."](https://aajimatics.com/) on **cybersecurity insurance**
+- 🌱 I’m currently working with [Aajmatics Inc.](https://aajimatics.com/) on **cybersecurity insurance**
 
-- 📄 See a sample of my codes on **data science, statistics, and quantitative/qualitative research methods** in my ["other repo"](https://github.com/sudogakrc/Projects)
+- 📄 See a sample of my codes on **data science, statistics, and quantitative/qualitative research methods** in my [other repo](https://github.com/sudogakrc/Projects)
 
-- 🌈 I'm interested in **data-driven research, human-computer interaction, and online behavior patterns**
+- 🌈 I'm interested in **data-driven research, human-computer interaction, and online behavior**
 
 - 🌸 I use **computational tools to analyze the online human behavior**
 
 - 📫 How to reach me **sudogakrc@gmail.com**
 
-- 👩 My pronouns are **she/her**
+- 👽 My pronouns are **she/her**
 
-- ⚡ Fun fact **I enjoy discovering new places–-often by getting lost**
+- ⚡ A fun fact about me: **I enjoy discovering new places–-often by getting lost**
+<p align="left">[ My getting-lost playlist:      <a href="https://open.spotify.com/playlist/71vu3PpHnU8DK4t2D33LzC?si=585cf9fa2c304507" target="blank"><img align="center" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png" alt="kabullenis playlist" height="20" width="70" /></a> ] </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
