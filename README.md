@@ -5,21 +5,21 @@
 
 
 
-- 🔭 I’m currently working on ["Understanding Divergent Interpretations of Political Information"](https://datascience.uchicago.edu/news/new-data-democracy-research-initiative-launched-at-university-of-chicago/)
+- 🔭 I’m currently **conducting an NLP research on HPCs** ["Understanding Divergent Interpretations of Political Information"](https://datascience.uchicago.edu/news/new-data-democracy-research-initiative-launched-at-university-of-chicago/)
 
-- 🌱 I’m currently learning **conducting NLP research on HPCs**
+- 🌱 I’m currently working with ["Aajmatics Inc."](https://aajimatics.com/) on eBusiness and eSecurity technologies
 
-- 📄 Ask me about **quantitative and qualitative research methods**
+- 📄 See a sample of my codes on **data science, statistics, and quantitative/qualitative research methods** in my ["other repo"](https://github.com/sudogakrc/Projects)
 
-- 🌈 I'm interested in **communication and human-media interaction**
+- 🌈 I'm interested in **data-driven research, human-computer interaction, and online behavior patterns**
 
-- 🌸 I use **computational tools to analyze the human behavior**
+- 🌸 I use **computational tools to analyze the online human behavior**
 
 - 📫 How to reach me **sudogakrc@gmail.com**
 
 - 👩 My pronouns are **she/her**
 
-- ⚡ Fun fact **I enjoy discovering new places–often by getting lost**
+- ⚡ Fun fact **I enjoy discovering new places–-often by getting lost**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
