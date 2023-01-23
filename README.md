@@ -20,7 +20,7 @@
 - 👽 My pronouns are **she/her**
 
 - ⚡ A fun fact about me: **I enjoy discovering new places–-often by getting lost**
-<p align="left">[ My getting-lost playlist:      <a href="https://open.spotify.com/playlist/71vu3PpHnU8DK4t2D33LzC?si=585cf9fa2c304507" target="blank"><img align="center" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png" alt="kabullenis playlist" height="20" width="70" /></a> ] </p>
+  <h5 align="left"> My getting-lost playlist:      <a href="https://open.spotify.com/playlist/71vu3PpHnU8DK4t2D33LzC?si=585cf9fa2c304507" target="blank"><img align="center" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png" alt="kabullenis playlist" height="20" width="70" /></a>  </h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
