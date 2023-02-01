@@ -4,12 +4,13 @@
 <a href="https://giphy.com/gifs/cute-girl-l0HlGeTBdTqMll15u"><img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif?cid=790b7611fcdb92b378e371ea8bdec6ccf274b5dc9502a975&rid=giphy.gif&ct=s"></a>
 
 
+- 📄 See a sample of my codes and reports on **data science, statistics, and quantitative/qualitative research methods** in my [other repo](https://github.com/sudogakrc/Projects)
 
 - 🔭 I’m currently **conducting an NLP research on HPCs**: [Understanding Divergent Interpretations of Political Information](https://datascience.uchicago.edu/news/new-data-democracy-research-initiative-launched-at-university-of-chicago/)
 
 - 🌱 I’m currently working with [Aajmatics Inc.](https://aajimatics.com/) on **cybersecurity insurance**
 
-- 📄 See a sample of my codes on **data science, statistics, and quantitative/qualitative research methods** in my [other repo](https://github.com/sudogakrc/Projects)
+- 🧁 Coming Soon!! --> Using my Spotify personal user data, I am creating my own Spotify listening story!
 
 - 🌈 I'm interested in **data-driven research, human-computer interaction, and online behavior**
 
