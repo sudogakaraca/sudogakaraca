@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/su-doga-karaca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudogakaraca" height="30" width="40" /></a> <a href="sudogakrc@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail" height="30" width="40" /></a> <a href="sudogakaraca@uchicago.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg" alt="university_email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/su-doga-karaca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudogakaraca" height="30" width="40" /></a> <a href="mailto:sudogakrc@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail" height="30" width="40" /></a> <a href="mailto:sudogakaraca@uchicago.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg" alt="university_email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
