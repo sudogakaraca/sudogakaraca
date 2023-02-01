@@ -1,6 +1,7 @@
 <h1 align="center">Hi,  I'm Su Doga Karaca!</h1>
-<h3 align="center"><em>A third-year undergraduate student at the University of Chicago, majoring in Data Science 📊 and Experimental Psychology 🧠</em></h3>
-
+<h3 align="center"><em>A third-year undergraduate student at the University of Chicago, majoring in Data Science 📊 and Experimental Psychology 🧠</em></h3>  
+<br>
+<br>
 <a href="https://giphy.com/gifs/cute-girl-l0HlGeTBdTqMll15u"><img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif?cid=790b7611fcdb92b378e371ea8bdec6ccf274b5dc9502a975&rid=giphy.gif&ct=s"></a>
 
 
@@ -20,11 +21,15 @@
 
 - ⚡ A fun fact about me: **I enjoy discovering new places–-often by getting lost**
   <h5 align="left"> My getting-lost playlist:      <a href="https://open.spotify.com/playlist/71vu3PpHnU8DK4t2D33LzC?si=585cf9fa2c304507" target="blank"><img align="center" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png" alt="kabullenis playlist" height="20" width="70" /></a>  </h5>
+  
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/su-doga-karaca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudogakaraca" height="30" width="40" /></a> <a href="mailto:sudogakrc@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail" height="30" width="40" /></a> <a href="mailto:sudogakaraca@uchicago.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg" alt="university_email" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -47,12 +52,16 @@
  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" alt="sql” width="40" height="40"/> </a>
  </p>
  
+<br>
+   
 <h3 align="left">Research Lab Affiliations:</h3>
 <p align="left">
 <a href="https://mcnlab.uchicago.edu/" target="blank"><img align="center" src="https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/3210/files/2021/07/Screen-Shot-2021-07-22-at-17.21.54.png" alt="mcnlab" height="40" width="200" /></a>
 <a href="https://datascience.uchicago.edu/engage/summerlab/#program-overview" target="blank"><img align="center" src="https://datascience.uchicago.edu/wp-content/uploads/2021/10/DSI_Logo_Color.svg" alt="dsisummerlab" height="40" width="200" /></a>
 <a href="https://eastlab.uchicago.edu/" target="blank"><img align="center" src="https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/b/2760/files/2021/04/EAST_logo.png" alt="eastlab" height="40" width="40" /></a>
 </p>
+
+<br>   
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudogakrc&show_icons=true&locale=en" alt="sudogakrc"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudogakrc&" alt="sudogakrc"/></p>
