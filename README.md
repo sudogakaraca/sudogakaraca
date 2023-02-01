@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently **conducting an NLP research on HPCs**: [Understanding Divergent Interpretations of Political Information](https://datascience.uchicago.edu/news/new-data-democracy-research-initiative-launched-at-university-of-chicago/)
 
-- 🌱 I’m currently working with [Aajmatics Inc.](https://aajimatics.com/) on **cybersecurity insurance**
+- 🌱 I’m currently working with [Aajmatics Inc.](https://aajimatics.com/) on **cybersecurity insurance decision algorithms**
 
-- 🧁 Coming Soon!! --> Using my Spotify personal user data, I am creating my own Spotify listening story!
+- 🧁 Coming Soon!! --> Using my Spotify personal user data, I am creating **my own Spotify listening story!**
 
-- 🌈 I'm interested in **data-driven research, human-computer interaction, online behavior patterns, and media psychology **
+- 🌈 I'm interested in **data-driven research, human-computer interaction, online behavior patterns, and media psychology**
 
 - 👾 I use **computational tools to analyze the online human behavior**
 
