@@ -12,9 +12,9 @@
 
 - 🧁 Coming Soon!! --> Using my Spotify personal user data, I am creating my own Spotify listening story!
 
-- 🌈 I'm interested in **data-driven research, human-computer interaction, and online behavior**
+- 🌈 I'm interested in **data-driven research, human-computer interaction, online behavior patterns, and media psychology **
 
-- 🌸 I use **computational tools to analyze the online human behavior**
+- 👾 I use **computational tools to analyze the online human behavior**
 
 - 📫 How to reach me **sudogakrc@gmail.com**
 
