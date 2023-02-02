@@ -63,6 +63,7 @@
 
 <br>   
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sudogakrc&show_icons=true&locale=en" alt="sudogakrc"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sudogakrc&" alt="sudogakrc"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudogakrc&show_icons=true&locale=en" alt="sudogakrc"/>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudogakrc&" alt="sudogakrc"/></p>
 
