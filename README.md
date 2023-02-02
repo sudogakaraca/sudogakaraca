@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working with [Aajmatics Inc.](https://aajimatics.com/) on **cybersecurity insurance decision algorithms**
 
-- 🧁 Fresh from the oven! ➩ Using **my Spotify user data**, I am creating my own Spotify listening story!
+- 🧁 Fresh from the oven! ➩ Using **my Spotify user data**, I am creating my own [Spotify listening story](https://github.com/sudogakrc/Projects/tree/main/data_reports/spotify_user_data)!
 
 - 🌈 I'm interested in **data-driven research, human-computer interaction, online behavior patterns, and media psychology**
 
