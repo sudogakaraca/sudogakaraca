@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently **conducting an NLP research on HPCs**: [Understanding Divergent Interpretations of Political Information](https://datascience.uchicago.edu/research/understanding-divergent-interpretations-of-political-information/)
 
-- 🌱 I’m currently working with [Aajmatics Inc.](https://aajimatics.com/) on **cybersecurity insurance decision algorithms**
+- 🌱 I’m currently working with [CVS Health](https://www.cvshealth.com/) on **customer intelligence & insights**
 
 - 🧁 Fresh from the oven! ➩ Using **my Spotify user data**, I am creating my own [Spotify listening story](https://github.com/sudogakrc/Projects/tree/main/data_reports/spotify_user_data)!
 
