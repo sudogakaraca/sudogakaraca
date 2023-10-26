@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently **conducting an NLP research on HPCs**: [Understanding Divergent Interpretations of Political Information](https://datascience.uchicago.edu/research/understanding-divergent-interpretations-of-political-information/)
 
-- 🌱 I’m currently working with [CVS Health](https://www.cvshealth.com/) on **customer intelligence & insights**
+- 🌱 This summer I worked with [CVS Health](https://www.cvshealth.com/) on **customer intelligence & insights**
 
 - 🧁 Fresh from the oven! ➩ Using **my Spotify user data**, I am creating my own [Spotify listening story](https://github.com/sudogakrc/Projects/tree/main/data_reports/spotify_user_data)!
 
 - 🌈 I'm interested in **data-driven research, human-computer interaction, online behavior patterns, and media psychology**
 
-- 👾 I use **computational tools to analyze the online human behavior**
+- 👾 I use **computational tools to analyze online human behavior**
 
 - 👽 My pronouns are **she/her**
 
