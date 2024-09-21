@@ -5,13 +5,13 @@
 <a href="https://giphy.com/gifs/cute-girl-l0HlGeTBdTqMll15u"><img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif?cid=790b7611fcdb92b378e371ea8bdec6ccf274b5dc9502a975&rid=giphy.gif&ct=s"></a>
 
 
-- 📄 See a sample of my codes and reports on **data science, statistics, and quantitative/qualitative research methods** in my [other repo](https://github.com/sudogakrc/Projects)
+- 📄 See a sample of my codes and reports on **data science, statistics, and quantitative/qualitative research methods** in my [other repo](https://github.com/sudogakaraca/Projects)
 
 - 🔭 I’m currently **conducting an NLP research on HPCs**: [Understanding Divergent Interpretations of Political Information](https://datascience.uchicago.edu/research/understanding-divergent-interpretations-of-political-information/)
 
 - 🌱 This summer I worked with [CVS Health](https://www.cvshealth.com/) on **customer intelligence & insights**
 
-- 🧁 Fresh from the oven! ➩ Using **my Spotify user data**, I am creating my own [Spotify listening story](https://github.com/sudogakrc/Projects/tree/main/data_reports/spotify_user_data)!
+- 🧁 Fresh from the oven! ➩ Using **my Spotify user data**, I am creating my own [Spotify listening story](https://github.com/sudogakaraca/Projects/tree/main/data_reports/spotify_user_data)!
 
 - 🌈 I'm interested in **data-driven research, human-computer interaction, online behavior patterns, and media psychology**
 
@@ -63,8 +63,8 @@
 
 <br>   
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudogakrc&show_icons=true&locale=en" alt="sudogakrc"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudogakaraca&show_icons=true&locale=en" alt="sudogakaraca"/>
 <br>
 <br> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudogakrc&" alt="sudogakrc"/></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudogakaraca&" alt="sudogakaraca"/></p>
 
