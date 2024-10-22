@@ -1,8 +1,9 @@
 <h1 align="center">Hi,  I'm Su Doga Karaca!</h1>
-<h3 align="center"><em>A third-year undergraduate student at the University of Chicago, majoring in Data Science 📊 and Experimental Psychology 🧠</em></h3>  
+<h3 align="center"><em><s>A third-year undergraduate student at the University of Chicago, majoring in Data Science 📊 and Experimental Psychology 🧠</s></em></h3>
+<h3 align="center"><em> ❗❗I graduated and am at Stanford now❗❗</em></h3>
 <br>
-<h2 align="center" style="background-color: yellow; color: plum;">
-    <em>SITE UPDATE IN PROGRESS - SEE U SOON!</em>
+<h2>
+    <mark>SITE UPDATE IN PROGRESS - SEE U SOON!</mark>
 </h2>
 <br>
 <a href="https://giphy.com/gifs/cute-girl-l0HlGeTBdTqMll15u"><img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif?cid=790b7611fcdb92b378e371ea8bdec6ccf274b5dc9502a975&rid=giphy.gif&ct=s"></a>
