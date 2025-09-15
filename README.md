@@ -6,7 +6,7 @@
     <mark>SITE UPDATE IN PROGRESS - SEE U SOON!</mark>
 </h2>
 <br>
-![alt text](https://github.com/sudogakaraca/sudogakaraca/blob/main/pp.png?raw=true)
+<a href="https://github.com/sudogakaraca/sudogakaraca/blob/main/pp.png"><img align="right" alt="Coding" width="250" src="https://github.com/sudogakaraca/sudogakaraca/blob/main/pp.png"></a>
 
 
 - 📄 See a sample of my codes and reports on **data science, statistics, and quantitative/qualitative research methods** in my [other repo](https://github.com/sudogakaraca/Projects)
