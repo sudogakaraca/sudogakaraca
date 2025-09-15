@@ -6,7 +6,7 @@
     <mark>SITE UPDATE IN PROGRESS - SEE U SOON!</mark>
 </h2>
 <br>
-<a href="https://giphy.com/gifs/cute-girl-l0HlGeTBdTqMll15u"><img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif?cid=790b7611fcdb92b378e371ea8bdec6ccf274b5dc9502a975&rid=giphy.gif&ct=s"></a>
+![alt text](https://github.com/sudogakaraca/sudogakaraca/blob/main/pp.png?raw=true)
 
 
 - 📄 See a sample of my codes and reports on **data science, statistics, and quantitative/qualitative research methods** in my [other repo](https://github.com/sudogakaraca/Projects)
