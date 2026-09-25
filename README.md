@@ -1,6 +1,7 @@
 <h1 align="center">Hi,  I'm Su Doga Karaca!</h1>
 <h3 align="center"><em><s>A third-year undergraduate student at the University of Chicago, majoring in Data Science 📊 and Experimental Psychology 🧠</s></em></h3>
-<h3 align="center"><em> ❗❗I graduated and am at Stanford now❗❗</em></h3>
+<h3 align="center"><em><s> I graduated and am at Stanford now</s>s></em></h3>
+<h3 align="center"><em> ❗❗I am a PhD student at Harvard now❗❗</s>s></em></h3>
 <br>
 <h2>
     <mark>SITE UPDATE IN PROGRESS - SEE U SOON!</mark>
