@@ -26,13 +26,6 @@
 
 - ⚡ A fun fact about me: **I enjoy discovering new places–-often by getting lost**
   <h5 align="left"> My getting-lost playlist:      <a href="https://open.spotify.com/playlist/71vu3PpHnU8DK4t2D33LzC?si=585cf9fa2c304507" target="blank"><img align="center" src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png" alt="kabullenis playlist" height="20" width="70" /></a>  </h5>
-  
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/su-doga-karaca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudogakaraca" height="30" width="40" /></a> <a href="mailto:sudogakrc@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail" height="30" width="40" /></a> <a href="mailto:sudogakaraca@uchicago.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Chicago_shield.svg" alt="university_email" height="30" width="40" /></a>
-</p>
 
 <br>
 
